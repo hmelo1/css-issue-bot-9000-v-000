@@ -9,7 +9,7 @@ h1 {
 h2 {
   color: green;
   font-weight: normal
-  ext-decoration: italic;
+  text-decoration: italic;
 }
 
 .completed {
